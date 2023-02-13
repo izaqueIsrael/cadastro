@@ -83,9 +83,7 @@ void consultar()
     }
   }
   if (acha == 0)
-  {
     printf("Cpf nao encontrado\n");
-  }
   else
   {
     printf("Codigo: %d\n", pessoa[posicao].codigo);
