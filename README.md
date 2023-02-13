@@ -10,6 +10,17 @@ Esse projeto foi meu trabalho de Algorítimos 2 da faculdade, então seu objetiv
 
 Apenas a linguagem de baixo nível C.
 
+**Funcionalidades**
+
+*Cadastrar
+*Listar
+*Consultar
+*Sair
+
+**Outras Tecnologias**
+
+EditorConfig para formatação do documento.
+
 **Segurança**
 
 Esse código não é seguro, não possui validações, então não o utilize profissionalmente.
