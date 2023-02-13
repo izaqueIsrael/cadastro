@@ -101,23 +101,14 @@ void consultar()
 // gerenciadora
 void gerenciadora(int op)
 {
-  switch (op)
-  {
-  case 1:
+  if (op == 1)
     cadastro();
-    break;
-  case 2:
+  if (op == 2)
     listar();
-    break;
-  case 3:
+  if (op == 3)
     consultar();
-    break;
-  case 4:
+  if (op == 4)
     exit(0);
-  default:
-    printf("Opcao invalida, tente novamente.\n");
-    break;
-  }
 }
 
 // main
